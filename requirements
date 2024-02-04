@@ -1,0 +1,10 @@
+Make a Table with 3 rows that contain Movie Title, Trailer link, and Publish Date.
+
+Using Dom
+Manipulation, promises, async and await, manually create a
+CSV file where there are 3 Columns: Movie Name, Trailer
+Link, and Publish Date. Read these values from the CSV and
+use them to populate your Table that previously had dummy
+Data. You should also make a button called Refresh Table
+that updates the table from the CSV file in case it was
+changed.
